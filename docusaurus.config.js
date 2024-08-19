@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Introduction to Robot Learning ',
   tagline: '16-831, Fall 2023',
-  url: 'https://16-831.github.io/fall2023',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  url: 'https://16-831.github.io',
+  baseUrl: '/fall23',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/ri.ico',
-  organizationName: '16-831', // Usually your GitHub org/user name. TODO
-  projectName: 'fall2023', // Usually your repo name.
+  organizationName: '16-831', // Usually your GitHub org/user name.
+  projectName: 'fall23', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '16-831',
